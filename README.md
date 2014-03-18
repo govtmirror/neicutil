@@ -29,7 +29,7 @@ are in your path.
 
 To install neicutil:
 
-pip install git+git://github.com/mhearne-usgs/neicutil.git
+pip install git+git://github.com/usgs/neicutil.git
 
 Uninstalling and Updating
 -------------------------
@@ -40,7 +40,7 @@ pip uninstall neicutil
 
 To update:
 
-pip install -U git+git://github.com/mhearne-usgs/neicutil.git
+pip install -U git+git://github.com/usgs/neicutil.git
 
 
 
