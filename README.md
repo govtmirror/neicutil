@@ -3,9 +3,7 @@ Introduction
 
 neicutil is one of three Python packages containing code modules extracted from the 
 PAGER (http://earthquake.usgs.gov/earthquakes/pager/) software.  This package  
-contains functions and classes designed to make it easier to read in files in various spatial formats
-(ESRI BIL, GMT NetCDF, ShakeMap grid.xml), read shapefiles, read/write fixed-width formats, and a 
-convenient wrapper around the Python functions for making system calls.  
+contains a grab bag of interpolation routines, text manipulation functions, and time functions.
 
 Installation and Dependencies
 -----------------------------
