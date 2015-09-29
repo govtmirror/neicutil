@@ -7,5 +7,5 @@ setup(name='neicutil',
       author_email='mhearne@usgs.gov',
       url='',
       packages=['neicutil'],
-      install_requires=['numpy', 'matplotlib', 'scipy'],
+      install_requires=[],
 )
